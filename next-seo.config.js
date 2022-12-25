@@ -1,13 +1,13 @@
 export default {
-  title: "Uquicks | The Home of Gospel Music | Resources | Events",
+  title: "WALK IN GRACE CHILD MINISTRIES",
   description:
-    "Uquicks is fully equipped gospel based website with the all kinds of gospel music across the world.",
+    "Walk in grace child ministries, Mobilizing resources to address challenges facing orphans and enable them realize their full potential through promoting programs on education, healthcare, recreational skills, social security and moral support",
   additionalMetaTags: [
     {
       property: "keywords",
       name: "keywords",
       content:
-        "Watch, Download Ntume Ani by Golden Gate Choir Song and Lyrics for free. More music like Gospel Music, sda music, sda hymns, Sunday music, sda mission story, Sda, granite bay church sda, sda church, sda sabbath school lesson, All find you here ,sda music, sda nonstops, hymn songs, sda hymns, sda mix",
+        "Walk in grace child ministries, Mobilizing resources to address challenges facing orphans and enable them realize their full potential through promoting programs on education, healthcare, recreational skills, social security and moral supportin",
     },
   ],
   //   additionalLinkTags: [

@@ -50,7 +50,6 @@ const Home = ({
   latestposts,
   jobposts,
   sellposts,
-  ,
 }) => (
   <div className="">
     <Head>
