@@ -50,7 +50,7 @@ const Home = ({
   latestposts,
   jobposts,
   sellposts,
-  upcomingevents,
+  ,
 }) => (
   <div className="">
     <Head>
@@ -101,7 +101,7 @@ const Home = ({
           and time again proven to be the key to widespread community
           development.
         </p>
-        <Link href="/UpcomingEvents">
+        <Link href="/">
           <span className="text-pink-600 bg-white hover:text-white block w-fit px-3 py-2 font-semibold cursor-pointer border-2 border-black hover:bg-gray-600">
             DONATE NOW
           </span>
@@ -273,7 +273,7 @@ const Home = ({
           this incredible opportunity to lead your own peer-to-peer outreach.
           It’s a great way to contribute to our cause.
         </p>
-        <Link href="/UpcomingEvents">
+        <Link href="/">
           <span className="text-pink-600 bg-white hover:text-white block w-fit px-3 py-2 font-semibold cursor-pointer border-2 border-black hover:bg-gray-600">
             START A FUNDRAISER
           </span>
@@ -331,35 +331,35 @@ const Home = ({
           positive change everyone at WIGCM is creating.
         </p>
         <div className="flex gap-2">
-          <Link href="/UpcomingEvents">
+          <Link href="/">
             <img
               src="logo.jpg"
               alt="walk in grace child ministries"
               className="w-6 h-6"
             />
           </Link>
-          <Link href="/UpcomingEvents">
+          <Link href="/">
             <img
               src="logo.jpg"
               alt="walk in grace child ministries"
               className="w-6 h-6"
             />
           </Link>
-          <Link href="/UpcomingEvents">
+          <Link href="/">
             <img
               src="logo.jpg"
               alt="walk in grace child ministries"
               className="w-6 h-6"
             />
           </Link>
-          <Link href="/UpcomingEvents">
+          <Link href="/">
             <img
               src="logo.jpg"
               alt="walk in grace child ministries"
               className="w-6 h-6"
             />
           </Link>
-          <Link href="/UpcomingEvents">
+          <Link href="/">
             <img
               src="logo.jpg"
               alt="walk in grace child ministries"

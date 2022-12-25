@@ -22,18 +22,18 @@ function Header() {
               </div>
               <div className="flex items-center text-xl md:text-lg lg:text-xl">
                 <div className="hidden lg:float-left lg:contents">
-                  <Link href="/BlogPage">
+                  <Link href="/">
                     <span className="text-black hover:text-pink-600 block px-3 py-2 rounded-md font-semibold cursor-pointer">
                       EBOLA RESPONSE
                     </span>
                   </Link>
-                  <Link href="/AllJobsUpdates">
+                  <Link href="/">
                     <span className="text-black hover:text-pink-600 block px-3 py-2 rounded-md font-semibold cursor-pointer">
                       WHO WE ARE
                     </span>
                   </Link>
 
-                  <Link href="/SellAndBuy">
+                  <Link href="/">
                     <span className="text-black hover:text-pink-600 block px-3 py-2 rounded-md font-semibold cursor-pointer">
                       IMPACT
                     </span>
@@ -117,18 +117,18 @@ function Header() {
                 ref={ref}
                 className="flex flex-col items-center px-2 pt-2 pb-3 space-y-1 sm:px-3"
               >
-                <Link href="/UquicksBlog" onClick={() => setIsOpen(!isOpen)}>
+                <Link href="/" onClick={() => setIsOpen(!isOpen)}>
                   <span className="text-black hover:text-pink-600 block px-3 py-2 rounded-md font-semibold cursor-pointer">
                     EBOLA RESPONSE
                   </span>
                 </Link>
-                <Link onClick={() => setIsOpen(!isOpen)} href="/AllJobsUpdates">
+                <Link onClick={() => setIsOpen(!isOpen)} href="/">
                   <span className="text-black hover:text-pink-600 block px-3 py-2 rounded-md font-semibold cursor-pointer">
                     WHO WE ARE
                   </span>
                 </Link>
 
-                <Link onClick={() => setIsOpen(!isOpen)} href="/SellAndBuy">
+                <Link onClick={() => setIsOpen(!isOpen)} href="/">
                   <span className="text-black hover:text-pink-600 block px-3 py-2 rounded-md font-semibold cursor-pointer">
                     IMPACT
                   </span>
